@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\comtech\source\repos\vaccine__center\vaccine__center\main.cpp(342,11): warning C4101: 'ch': unreferenced local variable
+C:\Users\comtech\source\repos\vaccine__center\vaccine__center\main.cpp(1051): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+  vaccine__center.vcxproj -> C:\Users\comtech\source\repos\vaccine__center\Debug\vaccine__center.exe

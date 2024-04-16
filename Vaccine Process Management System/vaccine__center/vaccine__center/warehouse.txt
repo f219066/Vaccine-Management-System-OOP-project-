@@ -1,0 +1,17 @@
+mani
+lahore
+1000
+-1
+loo
+karachi
+2000
+-1
+DLD
+lpi
+sgd
+300
+-1
+ppp
+peshwar
+10000
+-1

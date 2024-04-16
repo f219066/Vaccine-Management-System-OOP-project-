@@ -1,0 +1,5 @@
+5  local  Sinovac  Pfizer  -1
+55  local  0  Sinovac  -1
+67  local  Pfizer  0  -1
+23  local  0  Sinovac  -1
+23  local  Pfizer  0  -1

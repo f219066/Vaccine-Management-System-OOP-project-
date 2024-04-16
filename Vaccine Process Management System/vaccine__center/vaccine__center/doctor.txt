@@ -1,0 +1,3 @@
+
+mani  a  123  -1
+manii  q  1  -1
